@@ -1,0 +1,134 @@
+[
+    {
+        "model": "Skoda Octavia 1.5 TSI ACT SE Technology Euro 6 (s/s)",
+        "price": "From £177 per month (inc. VAT), £2,113 initial payment",
+        "seats": "5 seats",
+        "doors": "5 doors",
+        "fuel": "Petrol",
+        "transmition": "Manual",
+        "body_type": "Hatchback",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/369ec134281742d4a64e282dee4ace02.jpg",
+        "description": "The Skoda Octavia 1.5 TSI ACT SE Technology Euro 6 (s/s) offers a combination of practicality and efficiency, making it an ideal choice for families and professionals alike. It features a spacious 5-door hatchback design with a comfortable 5-seat configuration. Under the hood, it is powered by a 1.5-liter engine paired with a manual transmission, running on petrol. The car provides modern technology and safety features, ensuring a pleasant and secure driving experience. The financing options make it accessible with a reasonable monthly payment and an initial deposit, suitable for a 24-month lease with 6,000 miles per annum. Experience reliable and stylish driving with the Octavia's advanced features and Euro 6 compliance."
+    },
+    {
+        "model": "MG MG4 64kWh SE Auto",
+        "price": "From £206 per month (inc. VAT)",
+        "seats": "5 seats",
+        "doors": "5 doors",
+        "fuel": "Electric",
+        "transmition": "Automatic",
+        "body_type": "Hatchback",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/858ce84aaf274858889aee44b593b271.jpg",
+        "description": "The MG MG4 64kWh SE Auto is an electric hatchback offering a battery range of 281 miles. With a seating capacity of 5 and 5 doors, it provides ample space and accessibility for passengers. This vehicle comes with a convenient automatic transmission. Available from £206 per month, inclusive of VAT, with an initial payment of £2,470, on a 48-month contract covering 6,000 miles per year."
+    },
+    {
+        "model": "SEAT Arona 1.0 TSI FR Sport DSG Euro 6",
+        "price": "From £203 Per month (inc. VAT)",
+        "seats": "5 seats",
+        "doors": "5 doors",
+        "fuel": "Petrol",
+        "transmition": "Automatic",
+        "body_type": "SUV",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/2d3497a3ad9943cdb0b65d12affe091c.jpg",
+        "description": "The SEAT Arona 1.0 TSI FR Sport DSG Euro 6 is a stylish and compact SUV designed for urban adventures. With a sleek design and sporty touches, it offers an engaging driving experience. This model comes with an efficient 1.0-litre petrol engine combined with an automatic DSG transmission, providing a smooth and agile ride. Inside, the car comfortably seats five passengers and offers a spacious and practical interior, making it perfect for family use or long journeys. The 48-month lease contract comes with an initial payment of £2,426 and a competitive monthly rate starting at £203 (inc. VAT). With an allowance of 6,000 miles per year, it's a great choice for those seeking a versatile and reliable vehicle."
+    },
+    {
+        "model": "Toyota C-HR 2.0 VVT-h",
+        "price": "From £248 per month (inc. VAT) with £2,228 initial payment",
+        "seats": "5 seats",
+        "doors": "5 doors",
+        "fuel": "Hybrid",
+        "transmition": "Automatic",
+        "body_type": "SUV",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/90d02364e44d4c46b2bfae36dbdf24b7.jpg",
+        "description": "The Toyota C-HR 2.0 VVT-h is a stylish and efficient hybrid SUV. This model combines a 2.0-litre engine with hybrid technology to provide a smooth and economical driving experience. It features a spacious interior with seating for five and five doors for easy access. Designed with modern aesthetics, the C-HR offers advanced features and comfort. The SUV is available at a monthly rate of £248 with an initial payment of £2,228 over a 36-month lease period, allowing for up to 6,000 miles per year."
+    },
+    {
+        "model": "Nissan Qashqai 1.5 h e-POWER N-Connecta",
+        "price": "From £253 Per month (inc. VAT)",
+        "seats": "5 seats",
+        "doors": "5 doors",
+        "fuel": "Hybrid",
+        "transmition": "Automatic",
+        "body_type": "SUV",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/5cf5b02cdd4d47c6a11b6e224beeb664.jpg",
+        "description": "The Nissan Qashqai 1.5 h e-POWER N-Connecta Auto is a stylish and efficient hybrid SUV designed to offer a comfortable and economical driving experience. With its spacious interior accommodating 5 seats, it provides ample room for passengers and luggage. The vehicle features 5 doors for easy access and a robust design typical of the SUV category. Its hybrid fuel type combines the benefits of both electric and petrol power, providing great fuel efficiency and reduced emissions. The automatic transmission ensures a smooth driving experience, suitable for both city and highway driving. Available from just £253 per month including VAT, with a £3,036 initial payment, this model offers a great leasing deal for a 24-month contract, allowing for up to 6,000 miles per annum."
+    },
+    {
+        "model": "Nissan Juke 1.0 DIG-T N-Connecta Euro 6 (s/s) 5dr",
+        "price": "From £207 Per month (inc. VAT)",
+        "seats": "5 seats",
+        "doors": "5 doors",
+        "fuel": "Petrol",
+        "transmition": "Manual",
+        "body_type": "SUV",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/bbe11ab8a87a410b95076fbb2e41409a.jpg",
+        "description": "The Nissan Juke 1.0 DIG-T N-Connecta is a versatile SUV featuring a modern design and comfortable seating for five. It's powered by a 1.0-litre petrol engine and comes with a manual transmission. Perfect for urban driving and offers ample space for families with its five-door configuration. The SUV combines style with practicality, making it a great choice for those looking for reliability and efficiency in a compact SUV."
+    },
+    {
+        "model": "Toyota Aygo X 1.0 VVT-i Pure Euro 6",
+        "price": "£168/month (inc. VAT), £1,512 initial payment, 48-month contract, 6,000 miles p/a",
+        "seats": "4 seats",
+        "doors": "5 doors",
+        "fuel": "Petrol",
+        "transmition": "Manual",
+        "body_type": "Hatchback",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/f235ad843bb3449dad42caf3343fb66e.jpg",
+        "description": "The Toyota Aygo X 1.0 VVT-i Pure Euro 6 is a compact hatchback designed for efficiency and city driving. With a 1.0-litre petrol engine, this car offers a practical and cost-effective solution for your daily commute. It features a manual transmission and seats up to 4 passengers comfortably, with 5 doors for easy access. Ideal for city dwellers who need a reliable and economical vehicle, this Toyota Aygo combines modern styling with practicality. Enjoy peace of mind with a leased contract tailored to your needs, offering a manageable 6,000 miles annually."
+    },
+    {
+        "model": "Volkswagen Taigo 1.0 TSI Style",
+        "price": "From £232 per month (inc. VAT) £2,775 initial payment",
+        "seats": "5 seats",
+        "doors": "5 doors",
+        "fuel": "Petrol",
+        "transmition": "Manual",
+        "body_type": "SUV",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/a330d695da1745e0af403a64e998dde1.jpg",
+        "description": "The Volkswagen Taigo 1.0 TSI Style is a stylish compact SUV that offers practicality and comfort in a fuel-efficient package. Featuring a 1.0 litre TSI engine, the Taigo delivers a good balance of performance and economy, making it an excellent choice for city driving and longer journeys. With its manual transmission, you get a more involved driving experience. The SUV comes with 5 seats and 5 doors, offering ample space for passengers and luggage. The Euro 6 engine ensures lower emissions, meeting the latest environmental standards. Available for a 24 month contract at a monthly rate of £232 with an upfront payment of £2,775, the lease includes 6,000 miles per annum. This vehicle combines modern design with the reliability Volkswagen is known for, making it a great option for those seeking a versatile and efficient vehicle."
+    },
+    {
+        "model": "Audi A3 1.5 TFSI 30 Sport Sportback",
+        "price": "£234 per month (inc. VAT), £2,808 initial payment",
+        "seats": "5 seats",
+        "doors": "5 doors",
+        "fuel": "Petrol",
+        "transmition": "Manual",
+        "body_type": "Hatchback",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/49528a40b0c24d1cb73e1eacf8208bb5.jpg",
+        "description": "The Audi A3 1.5 TFSI 30 Sport Sportback euro 6 (s/s) 5dr offers a sleek design and efficient performance, perfectly suited for those who value both style and functionality. This hatchback comes with a spacious interior providing 5 seats and 5 doors, making it ideal for families or groups. The manual transmission delivers an engaging driving experience, while the 1.5 litre petrol engine ensures a smooth ride. This leasing deal entails a £234 monthly payment including VAT, paired with a £2,808 initial payment over a 60-month contract, covering 6,000 miles annually. This is a fantastic option for anyone looking for a sophisticated and economical vehicle."
+    },
+    {
+        "model": "CUPRA Formentor 1.5 TSI V2 DSG Euro 6 (s/s)",
+        "price": "From £264 per month (inc. VAT), £3,161 initial payment (48-month contract, 6,000 miles per annum)",
+        "seats": "5 seats",
+        "doors": "5 doors",
+        "fuel": "Petrol",
+        "transmition": "Automatic",
+        "body_type": "SUV",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/d7b510520d1a49b29ec8891ebf5a54d1.jpg",
+        "description": "The CUPRA Formentor 1.5 TSI V2 DSG Euro 6 is a stylish SUV that combines a spacious 5-door design with a modern automatic transmission. Powered by a 1.5-litre petrol engine, this vehicle offers a comfortable drive and is perfect for both city and longer journeys. With room for 5 passengers, it's a great option for families or those wanting a bit more space. Enjoy modern features and sleek design, available from £264 per month with VAT included."
+    },
+    {
+        "model": "Vauxhall Corsa-e 50kWh GS Auto",
+        "price": "From £258 per month (inc. VAT)",
+        "seats": "5 seats",
+        "doors": "5 doors",
+        "fuel": "Electric",
+        "transmition": "Automatic",
+        "body_type": "Hatchback",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/b13f36c9833f4cd2b97d1f11705481e4.jpg",
+        "description": "The Vauxhall Corsa-e 50kWh GS Auto is an electric hatchback with a modern design and efficient performance. It offers a battery range of 221 miles, making it suitable for urban and short-distance travel. With a 5-door configuration and ample seating for five, it provides convenience and comfort for everyday use. The automatic transmission enhances driving ease, while the electric fuel type ensures an eco-friendly ride. This model is available from £258 per month, with an initial payment of £3,096, on a 60-month contract with a mileage allowance of 6,000 miles per annum."
+    },
+    {
+        "model": "Toyota Corolla 1.8 VVT-h Icon Touring Sports CVT Euro 6 (s/s)",
+        "price": "£254 per month (inc. VAT), £2,282 initial payment, 36 month contract, 6,000 miles p/a",
+        "seats": "5",
+        "doors": "5",
+        "fuel": "Hybrid",
+        "transmition": "Automatic",
+        "body_type": "Estate",
+        "image_url": "https://m.atcdn.co.uk/a/media/w600h450/75f882470a2944b29b2dc3be523dcfb1.jpg",
+        "description": "The Toyota Corolla 1.8 VVT-h Icon Touring Sports CVT Euro 6 is a versatile estate car that combines efficient hybrid technology with practical space. It features a 1.8-litre engine paired with a CVT automatic transmission, providing a smooth and economical driving experience. With seating for five and ample cargo space, it's ideal for families or long-distance travelers. The car boasts a fuel-efficient hybrid system and complies with Euro 6 emissions standards, making it a greener choice for environmentally conscious drivers."
+    }
+]
