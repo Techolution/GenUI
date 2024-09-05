@@ -3,6 +3,11 @@ import { zodResponseFormat } from "openai/helpers/zod";
 import { mkChromaDBConnection } from "@/lib/chromaDB";
 import { z } from "zod";
 import { Tool } from "@/types";
+import dotenv from 'dotenv';
+import path from 'path';
+
+// Load environment variables from .env file
+dotenv.config({ path: path.join(__dirname, '../../.env') });
 
 // Initialize the OpenAI client
 const client = new OpenAI({
