@@ -1,5 +1,9 @@
 To get this project up and running locally you need to have chroma installed:
 
+
+https://github.com/user-attachments/assets/d5583c07-2883-41ea-b99e-2245d6f209aa
+
+
 activate environment:
 `conda activate <env>`
 
