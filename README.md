@@ -4,7 +4,7 @@ GenUI is a demo of dynamically sellecting React components based off the schema 
 
 This idea can be extended into much more complicated implementations such as using user heatmap data as an input to a model that can predict what componets to choose from that will provide the best experience for the user. This offers a completly new dimension of personalization that can provide more value to users and drive more successful outcomes for organizations. 
 
-# High level dataflow
+# Data Flow!
 
 ![NextGen UI](https://github.com/user-attachments/assets/52508a2a-ca34-4c47-8176-583658580ceb)
 
@@ -13,7 +13,7 @@ This idea can be extended into much more complicated implementations such as usi
 https://github.com/user-attachments/assets/d5583c07-2883-41ea-b99e-2245d6f209aa
 
 
-# Getting started
+# Getting Started!
 
 To get this project up and running locally you need to have chroma installed:
 
